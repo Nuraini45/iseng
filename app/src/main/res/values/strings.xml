@@ -1,0 +1,28 @@
+<resources>
+    <string name="label_app">tai</string>
+    <string name="app_name">iseng</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="Perempuan">Perempuan</string>
+    <string name="agama">Agama</string>
+    <string name="radio_Islam">Islam</string>
+    <string name="radio_Khatolik">Khatolik</string>
+    <string name="radio_Budha">Budha</string>
+    <string name="radio_Aliran_kepercayaan">Aliran Kepercayaan</string>
+    <string name="radio_Kristen">Kristen</string>
+    <string name="radio_Hindu">Hindu</string>
+    <string name="konghucu">Konghucu</string>
+    <string name="Jenis_kelamin">Jenis Kelamin</string>
+
+
+    <!--string related to login-->
+    <string name="nama_app">Nama Depan</string>
+    <string name="nama_belakang">Nama Belakang</string>
+    <string name="date">Tanggal Lahir</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="Email">Email</string>
+    <string name="Telepon">Telepon</string>
+    <string name="Password">Password</string>
+    <string name="Daftar">Daftar</string>
+    <string name="Kembali">Kembali</string>
+
+</resources>
